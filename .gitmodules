@@ -1,0 +1,3 @@
+[submodule "p1-pagerank"]
+	path = p1-pagerank
+	url = git@github.com:temttae/eecs390-p1-pagerank.git
