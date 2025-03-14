@@ -7,3 +7,6 @@
 [submodule "p2-scheme-parser"]
 	path = p2-scheme-parser
 	url = git@github.com:temttae/eecs390-p2-scheme-parser.git
+[submodule "hw2"]
+	path = hw2
+	url = git@github.com:temttae/eecs390-hw2.git
