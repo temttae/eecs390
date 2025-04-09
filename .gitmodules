@@ -13,3 +13,6 @@
 [submodule "p3-metacircular-evaluator"]
 	path = p3-metacircular-evaluator
 	url = git@github.com:temttae/eecs390-p3-metacircular-evaluator.git
+[submodule "p4-semantic-analysis"]
+	path = p4-semantic-analysis
+	url = git@github.com:temttae/eecs390-p4-semantic-analysis.git
