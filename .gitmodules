@@ -16,3 +16,6 @@
 [submodule "p4-semantic-analysis"]
 	path = p4-semantic-analysis
 	url = git@github.com:temttae/eecs390-p4-semantic-analysis.git
+[submodule "hw3"]
+	path = hw3
+	url = git@github.com:temttae/eecs390-hw3.git
