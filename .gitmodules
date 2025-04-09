@@ -10,3 +10,6 @@
 [submodule "hw2"]
 	path = hw2
 	url = git@github.com:temttae/eecs390-hw2.git
+[submodule "p3-metacircular-evaluator"]
+	path = p3-metacircular-evaluator
+	url = git@github.com:temttae/eecs390-p3-metacircular-evaluator.git
