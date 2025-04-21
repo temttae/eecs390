@@ -19,3 +19,6 @@
 [submodule "hw3"]
 	path = hw3
 	url = git@github.com:temttae/eecs390-hw3.git
+[submodule "p5-code-generation"]
+	path = p5-code-generation
+	url = git@github.com:temttae/eecs390-p5-code-generation.git
